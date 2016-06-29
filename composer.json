@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/phpcov",
+    "name": "lukewaite/phpcov",
     "description": "CLI frontend for PHP_CodeCoverage",
     "homepage": "https://github.com/sebastianbergmann/phpcov",
     "license": "BSD-3-Clause",
